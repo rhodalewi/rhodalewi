@@ -1,6 +1,9 @@
 ### Hi there 👋
 It's so nice to be here
-My name is Alewi Rhoda. I write HTML CSS and Javascript.
+
+My name is Alewi Rhoda. 
+
+I write HTML CSS and Javascript.
 
 I’m currently learning Front-end Development at Zuri Training
 
